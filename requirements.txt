@@ -5,7 +5,7 @@ SQLAlchemy-serializer>=1.3.4.2
 flask_script==2.0.6
 flask_migrate==2.5.3
 psycopg2>=2.8.5
-marshmallow==3.6.1
+marshmallow==3.26.2
 PyJWT==1.7.1
 flask-restplus>=0.12.0
 gunicorn==20.0.4
